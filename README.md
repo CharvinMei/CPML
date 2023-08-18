@@ -24,7 +24,7 @@ Place the public data sets correspondingly in the following directories：
 
 `./datasets/Stanford_cars`
 ________________________________
-**Traing:**
+**Train:**
 
 _**For CUB-200-2011 dataset:**_
 `python train_CUB_resnet50.py`
